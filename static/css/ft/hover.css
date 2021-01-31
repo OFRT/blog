@@ -1,0 +1,9 @@
+/* start--各种hover点击反馈相关的类名-start */
+.ft-hover-class {
+	// background-color: #f7f8f9!important;
+	opacity: 0.6;
+}
+
+.ft-cell-hover {
+	background-color: #f7f8f9!important;
+}

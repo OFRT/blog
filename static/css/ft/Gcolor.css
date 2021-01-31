@@ -1,0 +1,411 @@
+.bg-PiggyPink {
+  background: linear-gradient(to right, #ee9ca7, #ffdde1);
+  background: -webkit-linear-gradient(to right, #ee9ca7, #ffdde1);
+  /* color: #000000; */
+}
+.bg-MegaTron {
+  background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  background: -webkit-linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  /* color: #000000; */
+}
+.bg-CoolSky {
+  background: linear-gradient(to right, #ffffff, #6dd5fa, #2980b9);
+  background: -webkit-linear-gradient(to right, #ffffff, #6dd5fa, #2980b9);
+  /* color: #000000; */
+}
+.bg-Margo {
+  background: linear-gradient(to right, #ffefba, #fefefe);
+  background: -webkit-linear-gradient(to right, #ffefba, #fefefe);
+  /* color: #000000; */
+}
+.bg-EvenNight {
+  background: linear-gradient(to right, #005aa7, #fffde4);
+  background: -webkit-linear-gradient(to right, #005aa7, #fffde4);
+  /* color: #000000; */
+}
+.bg-RelaxRed {
+  background: linear-gradient(to right, #fffbd5, #b20a2c);
+  background: -webkit-linear-gradient(to right, #fffbd5, #b20a2c);
+  /* color: #000000; */
+}
+.bg-Delicate {
+  background: linear-gradient(to right, #d3cce3, #e9e4f0);
+  background: -webkit-linear-gradient(to right, #d3cce3, #e9e4f0);
+  /* color: #000000; */
+}
+.bg-PinkFlavour {
+  background: linear-gradient(to right, #800080, #ffc0cb);
+  background: -webkit-linear-gradient(to right, #800080, #ffc0cb);
+  /* color: #000000; */
+}
+.bg-Argon {
+  background: linear-gradient(to right, #7303c0, #ec38bc, #fdeff9);
+  background: -webkit-linear-gradient(to right, #7303c0, #ec38bc, #fdeff9);
+  /* color: #000000; */
+}
+.bg-Zinc {
+  background: linear-gradient(to right, #ada996, #f2f2f2, #dbdbdb, #eaeaea);
+  background: -webkit-linear-gradient(
+    to right,
+    #ada996,
+    #f2f2f2,
+    #dbdbdb,
+    #eaeaea
+  );
+  /* color: #000000; */
+}
+.bg-Dull {
+  background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+  background: -webkit-linear-gradient(to right, #c9d6ff, #e2e2e2);
+  /* color: #000000; */
+}
+.bg-BrokenHeart {
+  background: linear-gradient(to right, #d9a7c7, #fffcdc);
+  background: -webkit-linear-gradient(to right, #d9a7c7, #fffcdc);
+  /* color: #000000; */
+}
+.bg-Telegram {
+  background: linear-gradient(to right, #1c92d2, #f2fcfe);
+  background: -webkit-linear-gradient(to right, #1c92d2, #f2fcfe);
+  /* color: #000000; */
+}
+.bg-Compare {
+  background: linear-gradient(to right, #ef3b36, #ffffff);
+  background: -webkit-linear-gradient(to right, #ef3b36, #ffffff);
+  /* color: #000000; */
+}
+.bg-Cinnamit {
+  background: linear-gradient(to right, #4ac29a, #bdfff3);
+  background: -webkit-linear-gradient(to right, #4ac29a, #bdfff3);
+  /* color: #000000; */
+}
+.bg-Lies {
+  background: linear-gradient(to right, #f0f2f0, #000c40);
+  background: -webkit-linear-gradient(to right, #f0f2f0, #000c40);
+  /* color: #000000; */
+}
+.bg-Jaipur {
+  background: linear-gradient(to right, #dbe6f6, #c5796d);
+  background: -webkit-linear-gradient(to right, #dbe6f6, #c5796d);
+  /* color: #000000; */
+}
+.bg-RosePink {
+  background: linear-gradient(to right, #f4c4f3, #fc67fa);
+  background: -webkit-linear-gradient(to right, #f4c4f3, #fc67fa);
+  /* color: #000000; */
+}
+.bg-Chrysanthemum {
+  background: linear-gradient(to right, #fffc00, #ffffff);
+  background: -webkit-linear-gradient(to right, #fffc00, #ffffff);
+  /* color: #000000; */
+}
+.bg-Limeade {
+  background: linear-gradient(to right, #a1ffc4, #faffd1);
+  background: -webkit-linear-gradient(to right, #a1ffc4, #faffd1);
+  /* color: #000000; */
+}
+.bg-Dusk {
+  background: linear-gradient(to right, #fceabb, #f8b500);
+  background: -webkit-linear-gradient(to right, #fceabb, #f8b500);
+  /* color: #000000; */
+}
+.bg-PurpleWhite {
+  background: linear-gradient(to right, #ba5370, #f4e2d8);
+  background: -webkit-linear-gradient(to right, #ba5370, #f4e2d8);
+  /* color: #000000; */
+}
+.bg-GraySky {
+  background: linear-gradient(to right, #e0eafc, #cfdef3);
+  background: -webkit-linear-gradient(to right, #e0eafc, #cfdef3);
+  /* color: #000000; */
+}
+.bg-Piglet {
+  background: linear-gradient(to right, #ee9ca7, #ffdde1);
+  background: -webkit-linear-gradient(to right, #ee9ca7, #ffdde1);
+  /* color: #000000; */
+}
+.bg-Portrait {
+  background: linear-gradient(to right, #8e9eab, #eef2f3);
+  background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3);
+  /* color: #000000; */
+}
+.bg-Metallic {
+  background: linear-gradient(to right, #abbaab, #ffffff);
+  background: -webkit-linear-gradient(to right, #abbaab, #ffffff);
+  /* color: #000000; */
+}
+.bg-Friday {
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  background: -webkit-linear-gradient(to right, #83a4d4, #b6fbff);
+  /* color: #000000; */
+}
+.bg-Cherry {
+  background: linear-gradient(to right, #fbd3e9, #bd377d);
+  background: -webkit-linear-gradient(to right, #fbd3e9, #bd377d);
+  /* color: #000000; */
+}
+.bg-Ash {
+  background: linear-gradient(to right, #606c88, #3f4c6b);
+  background: -webkit-linear-gradient(to right, #606c88, #3f4c6b);
+  /* color: #000000; */
+}
+.bg-Virgin {
+  background: linear-gradient(to right, #c9ffbf, #ffafbd);
+  background: -webkit-linear-gradient(to right, #c9ffbf, #ffafbd);
+  /* color: #000000; */
+}
+.bg-Earthly {
+  background: linear-gradient(to right, #649173, #dbd5a4);
+  background: -webkit-linear-gradient(to right, #649173, #dbd5a4);
+  /* color: #000000; */
+}
+.bg-DirtyFog {
+  background: linear-gradient(to right, #b993d6, #8ca6db);
+  background: -webkit-linear-gradient(to right, #b993d6, #8ca6db);
+  /* color: #000000; */
+}
+.bg-Strain {
+  background: linear-gradient(to right, #870000, #190a05);
+  background: -webkit-linear-gradient(to right, #870000, #190a05);
+  /* color: #000000; */
+}
+.bg-Reef {
+  background: linear-gradient(to right, #00d2ff, #3a7bd5);
+  background: -webkit-linear-gradient(to right, #00d2ff, #3a7bd5);
+  /* color: #000000; */
+}
+.bg-Candy {
+  background: linear-gradient(to right, #d3959b, #bfe6ba);
+  background: -webkit-linear-gradient(to right, #d3959b, #bfe6ba);
+  /* color: #000000; */
+}
+.bg-winter {
+  background: linear-gradient(to right, #e6dada, #274046);
+  background: -webkit-linear-gradient(to right, #e6dada, #274046);
+  /* color: #000000; */
+}
+.bg-Almost {
+  background: linear-gradient(to right, #ddd6f3, #faaca8);
+  background: -webkit-linear-gradient(to right, #ddd6f3, #faaca8);
+  /* color: #000000; */
+}
+.bg-Meadow {
+  background: linear-gradient(to right, #215f00, #e4e4d9);
+  background: -webkit-linear-gradient(to right, #215f00, #e4e4d9);
+  /* color: #000000; */
+}
+.bg-Jonquil {
+  background: linear-gradient(to right, #ffeeee, #ddefbb);
+  background: -webkit-linear-gradient(to right, #ffeeee, #ddefbb);
+  /* color: #000000; */
+}
+.bg-Moonrise {
+  background: linear-gradient(to right, #dae2f8, #d6a4a4);
+  background: -webkit-linear-gradient(to right, #dae2f8, #d6a4a4);
+  /* color: #000000; */
+}
+.bg-Peach {
+  background: linear-gradient(to right, #ed4264, #ffedbc);
+  background: -webkit-linear-gradient(to right, #ed4264, #ffedbc);
+  /* color: #000000; */
+}
+.bg-Mineral {
+  background: linear-gradient(to right, #2bc0e4, #eaecc6);
+  background: -webkit-linear-gradient(to right, #2bc0e4, #eaecc6);
+  /* color: #000000; */
+}
+.bg-Noon {
+  background: linear-gradient(to right, #ff6e7f, #bfe9ff);
+  background: -webkit-linear-gradient(to right, #ff6e7f, #bfe9ff);
+  /* color: #000000; */
+}
+.bg-Sunny {
+  background: linear-gradient(to right, #ede573, #e1f5c4);
+  background: -webkit-linear-gradient(to right, #ede573, #e1f5c4);
+  /* color: #000000; */
+}
+.bg-MistPurple {
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  background: -webkit-linear-gradient(to right, #9796f0, #fbc7d4);
+  /* color: #000000; */
+}
+.bg-Cheer {
+  background: linear-gradient(to right, #556270, #ff6b6b);
+  background: -webkit-linear-gradient(to right, #556270, #ff6b6b);
+  /* color: #000000; */
+}
+.bg-GradeGrey {
+  background: linear-gradient(to right, #bdc3c7, #2c3e50);
+  background: -webkit-linear-gradient(to right, #bdc3c7, #2c3e50);
+  /* color: #000000; */
+}
+.bg-Amazing {
+  background: linear-gradient(to right, #ff0099, #d18fb9);
+  background: -webkit-linear-gradient(to right, #ff0099, #d18fb9);
+  /* color: #000000; */
+}
+.bg-Lust {
+  background: linear-gradient(to right, #4e4e4e, #dd1818);
+  background: -webkit-linear-gradient(to right, #ff0099, #d18fb9);
+  /* color: #000000; */
+}
+.bg-Sunset {
+  background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+  background: -webkit-linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+  /* color: #ffffff; */
+}
+.bg-Ice {
+  background: linear-gradient(to right, #c0c0aa, #1cefff);
+  background: -webkit-linear-gradient(to right, #c0c0aa, #1cefff);
+  /* color: #000000; */
+}
+.bg-Bright {
+  background: linear-gradient(to right, #00d2ff, #928dab);
+  background: -webkit-linear-gradient(to right, #00d2ff, #928dab);
+  /* color: #ffffff; */
+}
+.bg-GreenJade {
+  background: linear-gradient(to right, #808080, #3fada8);
+  background: -webkit-linear-gradient(to right, #808080, #3fada8);
+  /* color: #ffffff; */
+}
+.bg-Lost {
+  background: linear-gradient(to right, #5d4157, #a8caba);
+  background: -webkit-linear-gradient(to right, #5d4157, #a8caba);
+  /* color: #ffffff; */
+}
+.bg-Sirius {
+  background: linear-gradient(to right, #efefbb, #d4d3dd);
+  background: -webkit-linear-gradient(to right, #efefbb, #d4d3dd);
+  /* color: #000000; */
+}
+.bg-Resplendent {
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  background: -webkit-linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  /* color: #000000; */
+}
+.bg-Tempt {
+  background: linear-gradient(to right, #8a2387, #e94057, #f27121);
+  background: -webkit-linear-gradient(to right, #8a2387, #e94057, #f27121);
+  /* color: #ffffff; */
+}
+.bg-Shifter {
+  background: linear-gradient(to right, #bc4e9c, #f80759, #f27121);
+  background: -webkit-linear-gradient(to right, #bc4e9c, #f80759, #f27121);
+  /* color: #ffffff; */
+}
+.bg-Love {
+  background: linear-gradient(to right, #7303c0, #ec38bc, #fdeff9);
+  background: -webkit-linear-gradient(to right, #7303c0, #ec38bc, #fdeff9);
+  /* color: #ffffff; */
+}
+.bg-Azure {
+  background: linear-gradient(to right, #ef32d9, #89fffd);
+  background: -webkit-linear-gradient(to right, #ef32d9, #89fffd);
+  /* color: #ffffff; */
+}
+.bg-Alihossein {
+  background: linear-gradient(to right, #f7ff00, #db36a7);
+  background: -webkit-linear-gradient(to right, #f7ff00, #db36a7);
+  /* color: #ffffff; */
+}
+.bg-Timber {
+  background: linear-gradient(to right, #fc00ff, #00dbde);
+  background: -webkit-linear-gradient(to right, #fc00ff, #00dbde);
+  /* color: #ffffff; */
+}
+.bg-Atlas {
+  background: linear-gradient(to right, #feac5e, #c779d0, #4bc0cd);
+  background: -webkit-linear-gradient(to right, #feac5e, #c779d0, #4bc0cd);
+  /* color: #000000; */
+}
+.bg-Share {
+  background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  background: -webkit-linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  /* color: #ffffff; */
+}
+.bg-Magic {
+  background: linear-gradient(to right, #59c173, #a17fe0, #5d26c1);
+  background: -webkit-linear-gradient(to right, #59c173, #a17fe0, #5d26c1);
+  /* color: #000000; */
+}
+.bg-Sublime {
+  background: linear-gradient(to right, #fc5c7d, #6a82fb);
+  background: -webkit-linear-gradient(to right, #fc5c7d, #6a82fb);
+  /* color: #000000; */
+}
+.bg-King {
+  background: linear-gradient(to right, #1a2a6c, #b2af1f, #fdbb2d);
+  background: -webkit-linear-gradient(to right, #1a2a6c, #b2af1f, #fdbb2d);
+  /* color: #ffffff; */
+}
+.bg-Relay {
+  background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+  background: -webkit-linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+  /* color: #000000; */
+}
+.bg-BlueSky {
+  background: linear-gradient(to right, #56ccf2, #2f80ed);
+  background: -webkit-linear-gradient(to right, #56ccf2, #2f80ed);
+  /* color: #000000; */
+}
+.bg-BlueLagoon {
+  background: linear-gradient(to right, #43c6ac, #191654);
+  background: -webkit-linear-gradient(to right, #43c6ac, #191654);
+  /* color: #000000; */
+}
+.bg-Nepal {
+  background: linear-gradient(to right, #de6161, #2657eb);
+  background: -webkit-linear-gradient(to right, #de6161, #2657eb);
+  /* color: #000000; */
+}
+.bg-Viking {
+  background: linear-gradient(to right, #5614b0, #dbd56c);
+  background: -webkit-linear-gradient(to right, #5614b0, #dbd56c);
+  /* color: #000000; */
+}
+.bg-River {
+  background: linear-gradient(to right, #43cea2, #185a9d);
+  background: -webkit-linear-gradient(to right, #43cea2, #185a9d);
+  /* color: #000000; */
+}
+.bg-Hazel {
+  background: linear-gradient(to right, #77a1d3, #79cbca, #e684ae);
+  background: -webkit-linear-gradient(to right, #77a1d3, #79cbca, #e684ae);
+  /* color: #000000; */
+}
+.bg-Windy {
+  background: linear-gradient(to right, #acb6e5, #86fde8);
+  background: -webkit-linear-gradient(to right, #acb6e5, #86fde8);
+  /* color: #000000; */
+}
+.bg-Lunada {
+  background: linear-gradient(to right, #5433ff, #20bdff, #a5fecb);
+  background: -webkit-linear-gradient(to right, #5433ff, #20bdff, #a5fecb);
+  /* color: #000000; */
+}
+.bg-Summer {
+  background: linear-gradient(to right, #a8ff78, #78ffd6);
+  background: -webkit-linear-gradient(to right, #a8ff78, #78ffd6);
+  /* color: #000000; */
+}
+.bg-wedding {
+  background: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
+  background: -webkit-linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
+  /* color: #000000; */
+}
+.bg-Mini {
+  background: linear-gradient(to right, #30e8bf, #ff8235);
+  background: -webkit-linear-gradient(to right, #30e8bf, #ff8235);
+  /* color: #000000; */
+}
+.bg-Fun {
+  background: linear-gradient(to right, #00c3ff, #ffff1c);
+  background: -webkit-linear-gradient(to right, #00c3ff, #ffff1c);
+  /* color: #000000; */
+}
+.bg-Ali {
+  background: linear-gradient(to right, #ff4b1f, #1fddff);
+  background: -webkit-linear-gradient(to right, #ff4b1f, #1fddff);
+  /* color: #000000; */
+}
